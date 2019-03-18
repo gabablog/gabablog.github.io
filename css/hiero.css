@@ -254,10 +254,10 @@ object {
 ----------------------------------------------- */
 .site-header {
 	padding: 20px 0 0;
-	background: #67B26F;  /* fallback for old browsers */
-	background: -webkit-linear-gradient(to right, #4ca2cd, #67B26F);  /* Chrome 10-25, Safari 5.1-6 */
-	background: linear-gradient(to right, #4ca2cd, #67B26F); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
+	background: #E0EAFC;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #CFDEF3, #E0EAFC);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #CFDEF3, #E0EAFC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	
 	}
 .site-branding {
 	float: left;
@@ -270,7 +270,7 @@ object {
 	line-height: 1;
 	}
 .site-title a {
-	color: #fff;
+	color: #333333;
 	text-decoration: none;
 	}
 .site-description {
@@ -408,7 +408,7 @@ object {
 .nav-open,
 .nav-close {
 	display: none;
-	color: #eb2121;
+	color: #4ca2cd;
 	font-size: 1.2em;
 	font-weight: 400;
 	font-family: "Yanone Kaffeesatz", "方正姚体", Arial, Helvetica, sans-serif;
