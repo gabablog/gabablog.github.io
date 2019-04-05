@@ -372,13 +372,13 @@ object {
 #main-navigation li li:hover ul,
 #main-navigation li li.sfHover ul {
 	top: 0;
-	border-left: 1px solid #fd4848;
+	border-left: 1px solid #4ca2cd;
 	}
 #main-navigation li li {
-	border-bottom: 1px solid #fd4848;
+	border-bottom: 1px solid #4ca2cd;
 	}
 #main-navigation li li a {
-	color: #ffabab;
+	color: #7db0ca;
 	}
 #main-navigation li a:hover,
 #main-navigation li.sfHover > a,
@@ -401,7 +401,7 @@ object {
 	}
 #main-navigation li:hover li a:hover,
 #main-navigation li.sfHover li a:hover {
-	background: #eb2121;
+	background: #4ca2cd;
 	}
 
 /* Small Navigation */
